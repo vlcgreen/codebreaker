@@ -1,6 +1,6 @@
-# Codebreaker Game for Mintbean Hackathon Aug 2021
+# Codebreaker Game
 
-## Attempting to Create a Codebreaker Style Game
+## Project for Mintbean Hackathon Aug 2021
 
 
 
